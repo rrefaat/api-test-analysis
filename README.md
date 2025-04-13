@@ -17,8 +17,8 @@ api_test_analysis/
 │   └── api_test_analysis.ipynb     # Jupyter notebook for data analysis
 │
 ├── powerbi/
-│   └── api_test_dashboard.pbix     # Power BI dashboard (optional)
-│   └── dashboard_screenshot.png    # Power BI snapshot (optional)
+│   └── api_test_dashboard.pbix     # Power BI dashboard
+│   └── dashboard_screenshot.png    # Power BI snapshot
 │
 ├── README.md
 └── requirements.txt
